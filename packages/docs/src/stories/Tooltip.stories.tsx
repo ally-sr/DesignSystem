@@ -4,13 +4,17 @@ import { CustomTooltip  } from '@ally-igniteui/react'
 export default {
     title:'Form/Tooltip',
     component: CustomTooltip,
+    
 
-    args:{}
+    args:{
+        
+    }
 
 } as Meta
 
 export const Primary: StoryObj = {
-    args:{}
+    args:{
+    }
 }
 
 

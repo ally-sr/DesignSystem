@@ -8,12 +8,12 @@ export function CustomTooltip(){
         <Tooltip.Root>
           <Tooltip.Trigger asChild>
             <Button>
-              Acionar tooltip
+              Pouse o mouse para acionar
             </Button>
           </Tooltip.Trigger>
           <Tooltip.Portal>
             <TooltipContent sideOffset={5}>
-              Add to library
+              26 de Outubro - Indisponível
             <ToolTipArrow />
             </TooltipContent>
           </Tooltip.Portal>
